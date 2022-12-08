@@ -1,0 +1,27 @@
+.logo-navbar-sm {
+  height: 40px;
+  padding-left: 10px;
+}
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  color: #5356ee;
+  font-size: 24px;
+  text-decoration: none;
+  padding: 10px;
+  display: inline;
+}
+
+.list-inline li .fa-brands {
+  color: #5356ee;
+}
+
+.avatar-sm {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+
+}

@@ -1,0 +1,9 @@
+.banner {
+  margin: 0 0;
+  padding: 250px;
+  color: white;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: 50% 30%;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,46 @@
+.card-seller {
+  overflow: hidden;
+  height: 120px;
+  background: white;
+  display: flex;
+  align-items: start;
+  margin-top: 40px;
+}
+
+.card-seller img {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.card-seller h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-seller p {
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+.card-seller .card-seller-infos {
+  padding: 16px;
+}
+
+.item-detail {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 24px;
+  /* flex-grow: 1; */
+  margin-top: 16px;
+  margin-bottom: 80px;
+}
+
+.font-sm {
+  font-size: 14px;
+}
